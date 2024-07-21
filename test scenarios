@@ -1,0 +1,9 @@
+Basic Conversation:
+Test case 1: Ask the chatbot "Hello, how are you?"
+Test case 2: Ask the chatbot "What is your name?"
+Handling Unknown Inputs:
+Test case 1: Ask the chatbot a question it doesn't know the answer to (e.g., "What is the meaning of life?")
+Test case 2: Enter invalid input (e.g., "asdfghjkl")
+Error Handling:
+Test case 1: Try to ask the chatbot a question with invalid syntax (e.g., "How are you??")
+Test case 2: Try to ask the chatbot a question with no input (e.g., just press enter)
